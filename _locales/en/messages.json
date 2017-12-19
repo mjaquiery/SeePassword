@@ -1,0 +1,21 @@
+{
+  "extensionName": {
+    "message": "see-password",
+    "description": "Extension name."
+  },
+
+  "extensionDescription": {
+    "message": "Temporarily replace the asterisks in a password field with readable characters.",
+    "description": "Description of the extension."
+  },
+
+  "iconAltText": {
+    "message": "Show Password",
+    "description": "Icon alt text."
+  },
+
+  "iconTitle": {
+    "message": "Show password",
+    "description": "Title text for icon."
+  }
+}

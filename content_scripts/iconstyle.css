@@ -1,0 +1,9 @@
+.icon {
+  display: inline;
+  margin-left: -1.6em;
+  height: 1em;
+}
+
+.icon-hidden {
+  display: none;
+}
