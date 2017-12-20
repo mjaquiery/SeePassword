@@ -14,8 +14,13 @@
     "description": "Icon alt text."
   },
 
-  "iconTitle": {
-    "message": "Show password",
-    "description": "Title text for icon."
+  "iconTitleShow": {
+    "message": "Show passwords",
+    "description": "Title text for icon in hide state."
+  },
+
+  "iconTitleHide": {
+    "message": "Hide passwords",
+    "description": "Title text for icon in show state."
   }
 }
